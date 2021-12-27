@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "root",
-    "password": ",hfr_Ky$6gmN8j-",
-    "database": "tattoo_api",
-    "host": "127.0.0.1",
+    "username": "b306b7589b3771",
+    "password": "471467a6",
+    "database": "heroku_87873896886ef65",
+    "host": "us-cdbr-east-05.cleardb.net",
     "dialect": "mysql"
   },
   "test": {
