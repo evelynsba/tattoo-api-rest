@@ -3,7 +3,7 @@ const app = express();
 const routes = require('./routes')
 
 
-const porta = 3000;
+const porta = process.env.PORT || 3000;
 
 routes(app)
 
