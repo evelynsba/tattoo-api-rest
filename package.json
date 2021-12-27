@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devHelioFranco/tattoo-api-rest.git"
+    "url": "git+https://github.com/evelynsba/tattoo-api-rest.git"
   },
   "author": "Grupo 8: Evelyn, Hyan, Caio, Helio",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/devHelioFranco/tattoo-api-rest/issues"
+    "url": "https://github.com/evelynsba/tattoo-api-rest/issues"
   },
   "dependencies": {
     "-": "0.0.1",
